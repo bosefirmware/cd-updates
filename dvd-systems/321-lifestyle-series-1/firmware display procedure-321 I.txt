@@ -1,0 +1,18 @@
+Procedure to check the 321 Series I firmware level installed:
+
+Press and hold the Volume +, Scan >>, and Eject all at the same time. 
+
+If "BOSE 321" appears and then disappears on the display, you will need 
+to unplug/re-plug in the bass module. 
+
+After holding them for a least 7 seconds, release the three buttons at 
+the same time. Note: Some lights on the display may be flickering before 
+releasing the buttons. 
+ 
+The display should then read "321 ???". The "???" 
+being the software revision. 
+
+Or if you have a later software already installed will show a 6 digit 
+number like 010310 or the like.
+
+The higher the number the newer the firmware level installed.  

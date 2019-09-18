@@ -1,0 +1,25 @@
+Lifestyle 18, 28 & 35 Systems
+How to Check the Software/Firmware Revision  
+  
+Viewed on AV28 console
+
+- Turn the media center off.
+- On the console press and hold the STORE button and then press the ENTER button... 
+- For each additional press of the ENTER button, you will get additional information. 
+  See the list below. 
+
+01 - House Code: (code)
+
+02 - SW C: (version)
+  
+03 - SN (s/n)
+
+04 - SW1A: (version)
+
+05 - DVD Region Code: (#)
+  
+06 - DVD FIRMWARE: (version) 
+  
+07 - Tuner Board: (version)
+  
+08 - IR Blaster: (version)

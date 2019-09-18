@@ -1,0 +1,24 @@
+Bose 321 Series I Region-Free Procedures
+
+
+
+
+To initialise media centre (also makes it region "0"). You only need do this once. 
+
+Number 9 Button 
+Number 4 Button 
+Shuffle Button 
+Stop Button 
+Mute Button 
+
+
+
+
+
+Then use this sequence to enter specific regions disks to overcome RCE: 
+
+Open the disk tray first to ensure it works 
+Stop Button 
+Shuffle Button .
+Region number of the DVD discs sold in that region (i.e. for region 4, press the number 4 button) .
+Enter 
