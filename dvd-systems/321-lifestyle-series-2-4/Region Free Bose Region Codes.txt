@@ -1,0 +1,87 @@
+Bose Region System Codes for non Region 1 Systems or Region Free systems
+
+------------------------------------------------------------------------------------
+Bose DVD
+   321II, 321GSII & 321GSX systems
+   Lifestyle 18II, 28II, 35II, 38 & 48 Systems
+   Lifestyle 18III, 28III, 35III, 38III & 48III Systems
+   Lifestyle 18IV, 28IV, 35IV, 38IV & 48IV Systems
+------------------------------------------------------------------------------------
+Turn the machine on and load a normal (region 2 if in UK) DVD. While the disc is 
+playing:
+
+1) Right arrow (Navigation Button)
+2) Up arrow (Navigation/Tune Up Button)
+3) Press Shuffle.
+4) Press Stop.
+5) Press Mute.
+
+Make sure that there is a gap of at least 1 second between presses and ignore error 
+messages on the TV screen. If successful, the disc drawer will part eject quickly 
+twice (I only saw it do one cycle, but it was very quick). Using the remote control, 
+switch the system off for at least one minute then turn it on. It should now be set 
+to region 0 and most DVD's should play.
+
+If you have problems with RCE (Region Code Enhanced) discs, having followed the above 
+and with a disc playing:-
+
+1) Press Stop.
+2) Press Shuffle.
+3) Press whatever number on the remote control corresponds with the region 
+    number of the disc you are trying to play.
+4) Press Enter.
+
+With luck, your player should play the RCE disc ok but remember to go through the 
+above sequence again and at 3), enter 0 to set it back to region free.
+
+If it doesn't play the RCE disc, try pressing STOP twice (this may counter the RESUME 
+function taking the disc back to the beginning 'world map'). If STOP is prohibited, 
+try disconecting the media centre from the power supply, waiting 1 minute then 
+turning it on again. This should empty the cache. Then put in a non RCE disc, go 
+through 1). to 4). again, eject the disc and try the RCE disc. If this doesn't work 
+you can try to overwrite the system memory by playing 10 discs, none of which have 
+the same title as the last 10 discs played.
+
+Good Luck; I know the change to region 0 works 'cos I've done it,
+
+------------------------------------------------------------------------------------
+Bose Lifestyle 18, 28 & 35 Series I
+------------------------------------------------------------------------------------
+   To initialise media centre (also makes it region "0"). 
+   You only need do (using the remote control) this once.
+
+   1 Right arrow (Navigation Button)
+   2 Up arrow (Navigation/Tune Up Button)
+   3 Shuffle Button
+   4 Stop Button
+   5 Mute Button
+
+Then use this sequence to enter specific regions disks to overcome RCE:
+   7 Open the disk tray first to ensure it works
+   8 Stop Button
+   9 Shuffle Button .
+  10 Region number of the DVD discs sold in that region 
+      (i.e. for region 4, press the number 4 button) .
+  11 Enter 
+
+------------------------------------------------------------------------------------
+Bose 321 & 321GS Series I
+------------------------------------------------------------------------------------
+   To initialise media centre (also makes it region "0"). You only need do this once.
+
+on your remote control
+   1 Number 9 Button
+   2 Number 4 Button
+   3 Shuffle Button
+   4 Stop Button
+   5 Mute Button
+
+Then use this sequence to enter specific regions disks to overcome RCE:
+   7 Open the disk tray first to ensure it works
+   8 Stop Button
+   9 Shuffle Button
+  10 Region number of the DVD discs sold in that region 
+      (i.e. for region 4, press the number 4 button) .
+  11 Enter 
+
+------------------------------------------------------------------------------------

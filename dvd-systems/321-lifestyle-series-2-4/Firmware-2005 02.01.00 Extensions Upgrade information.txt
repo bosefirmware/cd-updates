@@ -1,0 +1,65 @@
+---------------------------------------------------------------
+Lifestyle & 321 Extensions Upgrade
+---------------------------------------------------------------
+This upgrade adds a lot of improvements throughout the system 
+focusing on the remote. The most noticeable differences 
+has to be:
+
+* The Addition of Pal Progressive, MULTI Progressive, MULTI 
+  Component & MULTI Composite+S
+* Upgrades system to allow better use with DVR’s 
+* New button functions listed below.
+
+
+---------------------------------------------------------------
+Additional controls for the 321 & 321GS and LS 18II, 28II, 35II
+---------------------------------------------------------------
+Shuffle - Moves back a few seconds in your DVR (or other digital 
+          video recorder) if the remote is set up for this 
+          control.
+
+Repeat  - Moves ahead a few seconds in your DVR (or other 
+          digital video recorder) if the remote is set up for 
+          this control.
+
+
+---------------------------------------------------------------
+The LS 38, 48 & 321GSX does all of the above and
+---------------------------------------------------------------
++/-  In an on-screen program guide or cable selection list, 
+     moves to the previous or next page. This reveals 
+     additional content for your TV, cable/satellite box, or 
+     VCR/DVR (as applicable), when the remote is set up to 
+     control such components.
+
+Using US Record/ABC Function
+  -------------------------------------------------------------
+  Library  - When a video source is selected, changes between a 
+             4:3 screen! display ratio and 16:9 widescreen 
+             display. This requires a TV that provides that 
+             function. Your remote also must be set up to 
+             control the TV.
+
+  Encore   - In VCR/Cable-Satelite source (or AUX, if a 
+             recorder-type device is connected to that input), 
+             activates the record function. Not available on 
+             remotes set to control Teletext.
+
+  In Cable source:
+  CD#      - makes a selection from the A list.
+  Playlist - makes a selection from the B list.
+  Whole CD - makes a selection from the C list.
+  -------------------------------------------------------------
+
+Using European Teletext Function
+  -------------------------------------------------------------
+  Library  - When the TV is selected as source, enters the 
+             Teletext mode. Works in conjunction with colored 
+             FastText buttons on the remote.
+
+  In Teletext mode:
+  Encore   - selects the screen content labeled red.
+  CD#      - selects the screen content labeled green.
+  Playlist - selects the screen content labeled yellow.
+  Whole CD - selects the screen content labeled blue.
+  -------------------------------------------------------------

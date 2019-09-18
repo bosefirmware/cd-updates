@@ -1,0 +1,64 @@
+321II, 321GSII, 321GSX & 321GSXL
+321III, 321GSIII, 321GSXIII & 321GSXLIII
+Firmware display information procedure
+---------------------------------------
+
+Viewed on AV321II    (321 II & 321GS II)  console displays Steps 1 - 16
+Viewed on AV321IIGSX     (321 GSX)        console displays Steps 1 - 20
+Viewed on AV321IIGSXL    (321 GSXL)       console displays Steps 1 - 20
+
+
+Viewed on AV321III   (321 III & 321GS III)  console displays Steps 1 - 16, 20-22
+Viewed on AV321IIIGSX     (321GSX III)      console displays Steps 1 - 22
+Viewed on AV321IIIGSXL    (321GSXL III)     console displays Steps 1 - 22
+
+Obtaining System Information from the Media Center Display
+- Turn the media center off.
+- On the console press and hold the ENTER/STORE button on the media center.
+- While holding down the ENTER/STORE button, each additional press of the
+  POWER button will show additional information. See the list below.
+- Once you are done viewing the information, release the ENTER/STORE button.
+  If information is still being displayed press the POWER button.
+
+01 - Video output: NTSC  Progressive ->  NTSC  Component ->  NTSC  Composite+S ->
+                  *MULTI Progressive -> *MULTI Component -> *MULTI Composite+S ->
+                  *PAL   Progressive ->  PAL Composite+S ->  PAL   Component   ->
+                  [Use the volume buttons to cycle through options]
+                  (If HDMI used only "NTSC" or "PAL" is displayed)
+
+xx - *Hotel Control: (off -> on) (Available only on AV321II & AV321III)
+                     [Use the volume buttons to cycle through options]
+                     (Max volume is set to the current volume setting)
+
+02 - Flash Commit [press volume up twice to save settings and reboot]
+03 - Console Software: (version)
+04 - Console Variant: (#) (if an American system 129=AV321II/AV321III & 134=AV321GSX/AV321GSXIII)
+05 - Bass Box Software: (version)
+06 - **Bass Box EQ: (#)
+07 - Tuner Software: (version)
+08 - Console serial number: (s/n)
+09 - **Bass Serial number: (s/n)
+10 - Main Board serial number: (s/n)
+11 - Tuner serial number: (s/n)
+12 - DVD Region Code: (#)
+13 - DVD Drive: (firmware version on first line)
+                (DVD model number on second line)
+14 - Main Board Functional: (test results)
+15 - Tuner Board Alignment: (test results)
+16 - Serial Port: (Smart Speaker -> ETAP)
+                  [Use the volume buttons to cycle through options]
+17 - Hard Drive: (firmware version on first line)
+                 (DVD model number on second line)
+18 - Hard Drive Self Test: (test results)
+19 - Gracenote Database: (version)
+
+xx - Ethernet Address: (Address) (Available only on 321GSX series II systems)
+
+20 - ***DRC Timing: #x##
+21 - ****HDMIC: (#)
+22 - ****SRM (#)
+
+*    Included with Console firmware 02.01.00 and greater
+**   Included with Console firmware 02.02.00 and greater
+***  Included with Console firmware 03.01.00 and greater
+**** Included with 321 series III systems (CN 04.01.00 +)

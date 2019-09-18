@@ -1,0 +1,65 @@
+Lifestyle 18II , 28II , 35II , 38    & 48    Systems
+Lifestyle 18III, 28III, 35III, 38III & 48III Systems
+Lifestyle 18IV , 28IV , 35IV , 38IV  & 48IV  Systems
+Firmware display information procedure
+----------------------------------------------------
+
+Viewed on (   AV18  ) console displays steps 1 - 20
+Viewed on (AV38/AV48) console displays steps 1 - 25
+
+Obtaining System Information from the Media Center Display
+- Turn the media center off.
+- On the console press and hold the ENTER button on the media center.
+- While holding down the ENTER button, each additional press of the
+  STORE button will show additional information. See the list below.
+- Once you are done viewing the information, release the ENTER button.
+  If information is still being displayed press the POWER button.
+
+01 - House Code: (code)
+02 - TV Power: (on/off)
+03 - Video output: 
+     Without VS-2(  NTSC  Progressive ->  NTSC  Component ->  NTSC  Composite+S -> )
+                 ( *MULTI Progressive -> *MULTI Component -> *MULTI Composite+S -> )
+                 ( *PAL   Progressive ->  PAL Composite+S ->  PAL   Component   -> )
+                 [Use the volume buttons to cycle through options]
+
+     ***With VS-2( NTSC  Interlaced -> NTSC  Progressive -> )
+                 ( PAL   Interlaced -> PAL   Progressive -> )
+                 ( MULTI Interlaced -> MULTI Progressive -> )
+                 [Use the volume buttons to cycle through options]
+xx - *Hotel Control: (off -> on) (Available only on AV18)
+                     [Use the volume buttons to cycle through options]
+                     (Max volume is set to the current volume setting)
+04 - Flash Commit [press volume up twice to save settings and reboot]
+05 - Console software: (version)
+06 - Console variant: (#) [if an American system 1=AV18, 6=AV38 & 11=AV48]
+07 - Bass Box software: (version)
+08 - **Bass Box EQ: (#) [00=Jewel Cube {or Series I-II Bass}, 01=Single Cube, 02=Double Cube]
+09 - Tuner software: (version)
+10 - Console serial number: (s/n)
+11 - **Bass Serial number: (s/n)
+12 - Main Board serial number: (s/n)
+13 - Tuner serial number: (s/n)
+14 - DVD Region Code: (#)
+15 - DVD Drive: (firmware version on first line)
+                (DVD model number on second line)
+16 - Main Board Functional: (test results)
+17 - Tuner Board Alignment: (test results)
+18 - IR Blaster: (version)
+19 - ***VS-2 Serial number: (s/n)
+20 - ***VS-2 Firmware number: (version)
+21 - Hard Drive: (firmware version on first line)
+                 (DVD model number on second line)
+22 - Hard Drive Self Test: (test results)
+23 - Gracenote Database: (version)
+24 - Ethernet Address: (Address)
+25 - ***DRC Timing: #x##
+21 - ****MDU Mode: Off -> On
+20 - ****Transition Color: Green -> Black
+21 - ****Snow reduction: Off -> On
+22 - ****Ghosting Reduction: Off -> On
+
+*    Included with Console firmware 02.01.00 and greater (Remote Extensions upgrade)
+**   Included with Console firmware 02.02.00 and greater (Series III)
+***  Included with Console firmware 03.01.00 and greater (VS2)
+**** Included with Console firmware 05.00.00 and greater (uMusic+) (no version 4 was created)
