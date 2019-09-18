@@ -1,0 +1,24 @@
+Please follow these steps to upgrade you Lifestyle V-Class systems
+
+Before you begin make sure you have a CD/DVD player that is connected to your lifestyle system via digital optical, digital coax, or HDMI (if HDMI audio out is supported by your player). This is the only way the system will update.
+
+Part 1 - Create the update disc
+
+01. Download the File
+02. Extract the .wav file from the downloaded .zip program
+03. Using your burning program to create an <<AUDIO DISC>> and burn the .wav 
+    file to a blank CD-r (use a CD-rw if you don't wish to waist a CD)
+04. To make sure that the newly created CD is burnt as an audio file there 
+    should be only one track on the CD saying "Track01.cda"
+
+Part 2 - Update the System
+
+05. Make sure you have your lifestyle system connected to a CD/DVD player via 
+    digital optical, digital coax, or HDMI (if HDMI audio out is supported by 
+    your player).
+06. Turn off any audio processing features on your player.
+07. Select the input on your Lifestyle system to the one connected to your player.
+08. Put the update into the player and press play.
+09. In a few minuets the media center's display should say SOFTWARE UPDATE 0% READING
+10. The update could take as much as an hour to complete. 
+11. Once the system displays PLEASE REMOVE DISC the update is finished. 

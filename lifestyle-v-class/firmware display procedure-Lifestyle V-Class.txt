@@ -1,0 +1,41 @@
+Lifestyle V10, V20 & V30 Systems
+Firmware display information procedure
+---------------------------------------
+
+Obtaining System Information from the Media Center Display
+- Turn the media center off.
+- On the console press and hold the MUTE button on the media center.
+- While holding down the MUTE button, each additional press of the
+  POWER button will show additional information. See the list below.
+- Once you are done viewing the information, release the MUTE button.
+  If information is still being displayed press the POWER button.
+
+01 - House Code: (code)
+02 - TV Power: (on/off)
+03 - Video output: ( NTSC  Interlaced -> NTSC  Progressive -> )
+                   ( PAL   Interlaced -> PAL   Progressive -> )
+                   ( MULTI Interlaced -> MULTI Progressive -> )
+                   [Use the volume buttons to cycle through options]
+04 - Hotel Control: (off -> on) 
+                    [Use the volume buttons to cycle through options]
+                    (Max volume is set to the current volume setting)
+05 - Flash Commit [press volume up twice to save settings and reboot]
+06 - Console software: (version)
+07 - Console variant: (#) [if an American system, 50 = MC1]
+08 - Bass Box software: (version)
+09 - Bass Box EQ: (#) [00=Jewel Cube, 01=Single Cube, 02=Double Cube]
+10 - Tuner software: (version)
+11 - Console serial number: (s/n)
+12 - Bass Serial number: (s/n)
+13 - Main Board serial number: (s/n)
+14 - Tuner serial number: (s/n)
+15 - Main Board Functional: (test results)
+16 - Tuner Board Alignment: (test results)
+17 - IR Blaster: (version)
+18 - VS-2 Serial number: (s/n)
+19 - VS-2 Firmware number: (version)
+20 - *Transition Color: Green -> Black
+21 - *Snow reduction: Off -> On
+22 - *Ghosting Reduction: Off -> On
+
+*   Included with Console firmware 02.01.00 and greater
