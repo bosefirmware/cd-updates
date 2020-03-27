@@ -7,7 +7,7 @@ has to be:
 
 * The Addition of Pal Progressive, MULTI Progressive, MULTI 
   Component & MULTI Composite+S
-* Upgrades system to allow better use with DVR’s 
+* Upgrades system to allow better use with DVRâ€™s 
 * New button functions listed below.
 
 
