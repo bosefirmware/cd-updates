@@ -1,6 +1,6 @@
 Thanks to <a href="http://homeavi.aokforums.com/">homeavi.aokforums.com</a> for the help.
 
-Instructions: The updates below contain ISO files. Use the following link to instruct you on how to burn the ISO to the disc
+<b>Instructions</b>: The updates below contain ISO files. Use the following link to instruct you on how to burn the ISO to the disc
 <a href="https://www.petri.com/how_to_write_iso_files_to_cd">How to write (burn) ISO files to a CD</a>
 
 # Lifestyle V-Class 
