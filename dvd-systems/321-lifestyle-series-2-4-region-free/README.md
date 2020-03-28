@@ -78,5 +78,4 @@ Burn the software to a CD-R/W and place the CD into the media center. Press the 
 
 <b>Note 1</b>: The firmware display procedure will always show the systems original region, even if you have successfully made it region free.</br>
 
-<b>Note 2</b>: If the system is still region locked, try a full update of your <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/321-updates">321</a> or <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/lifestyle-updates">Lifestyle</a> system and after the update retry the remote code.</br>
-Even if you have successfully made your system Region Free, it is still a good idea to update your system.
+<b>Note 2</b>: If the system is still region locked, try a full update of your <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/321-updates">321</a> or <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/lifestyle-updates">Lifestyle</a> system and after the update retry the remote code. Even if you have successfully made your system Region Free, it is still a good idea to update your system.
