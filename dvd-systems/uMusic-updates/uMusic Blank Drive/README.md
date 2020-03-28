@@ -17,9 +17,9 @@ Well recently the hard drive on my uMusic system died. So after getting my syste
 ## Step 3 
 - The <a href="http://www.runtime.org/driveimage-xml.htm">DriveImage program</a> (included in the folder and <a href="https://github.com/bosefirmware/cd-updates/raw/master/dvd-systems/uMusic-updates/uMusic%20Blank%20Drive/driveimage%20xml%201.21.exe">here</a>) is free! If you have any questions about DriveImage please see their <a href="http://www.runtime.org/driveimage_faq.htm">FAQ</a>.
 
-    If you're having problems with the partition you will have to find a way to partition the drive.
-    * Partition 1 was in Fat32 and was 30,112,006,114 bytes long.
-    * Partition 2 registered as unformatted and took up the rest of the drive.
+If you're having problems with the partition you will have to find a way to partition the drive.
+  * Partition 1 was in Fat32 and was 30,112,006,114 bytes long.
+  * Partition 2 registered as unformatted and took up the rest of the drive.
 
 ## Step 4 
 - Once everything is done <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/uMusic-updates">update your uMusic to the latest version</a>.
