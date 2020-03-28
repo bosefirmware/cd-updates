@@ -54,7 +54,7 @@ Download contents of folder for correct version :
 - 1802DVD.1B22
 
 ## Step 2
-- Go to where you downloaded the zip file. 
+- Go to where you downloaded the zip files and make sure they are all in the same folder. 
 
 Extract a larger ".iso" file that you can then place on to a DVD using DVD burner software (note uMusic updates will not fit on a CD so a DVD burner and blank DVD will be required).
 
