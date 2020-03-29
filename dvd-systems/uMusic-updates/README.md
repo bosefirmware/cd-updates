@@ -32,7 +32,7 @@ Doing so might ruin the System!</br>
 
 ## Step 1
 
-Download contents of folder for correct version :
+Download entire contents from _one_ of the linked folders below, for the full file :
 
 <b>Firmware update</b> - <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/uMusic-updates/uMusic+_HDD_DB_010201_CN_050108">uMusic_HDD_DB_010201_CN_050108</a>  
 - HDD DB 01.02.01
@@ -43,7 +43,7 @@ Download contents of folder for correct version :
 - new BB.02.01.00
 - 1802DVD.1B22
 
-<b>Japanese Firmware update</b> - <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/uMusic-updates/Japan_uMusic%2B_HDD_DB_010201_CN_850103">Japan_uMusic+_HDD_DB_010201_CN_850103</a>
+<b>_Japanese Systems_ Firmware update</b> - <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/uMusic-updates/Japan_uMusic%2B_HDD_DB_010201_CN_850103">Japan_uMusic+_HDD_DB_010201_CN_850103</a>
 - HDD DB 01.02.01
 - P2JCON.85.01.03
 - FXJCON.83.04.04
