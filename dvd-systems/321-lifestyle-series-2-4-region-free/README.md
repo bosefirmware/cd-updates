@@ -59,7 +59,7 @@ If you have the <b>1712 Drive</b> please continue.</br>
 Original Lifestyle Series II systems with a media center console below 01.04.01 need to be updated. Included in zip.</br>
 
 If you have a Lifestyle system above CN01.04.00 please Skip to <b>Step 6</b>.</br>
-If you have a Lifestyle system below CN01.04.00 please update media center to CN01.04.01 _then_ Skip to <b>Step 6</b>.
+If you have a Lifestyle system below CN01.04.00 please update media center to CN01.04.01 or newer (see <b>Note 2</b>) _then_ Skip to <b>Step 6</b>.
 
 ## Step 5
 - <b>1802 Drive</b> Update the DVD firmware
