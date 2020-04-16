@@ -31,5 +31,5 @@ update for _uMusic systems_ (38, 38III, 38IV, 48, 48III or 48IV)</br>
 update for _non-uMusic systems_ (18II, 18III, 28II, 28III, 35II, 35III or 35IV)</br>
 Firmware update (P2.FX.CON.05.01.08, TN.01.03.00, VS2.05.00.18, old BB.07.08.01, new BB.02.01.00, 1802DVD.1B22)</br>
 <b>Firmware</b> - <a href="https://github.com/bosefirmware/cd-updates/raw/master/dvd-systems/lifestyle-updates/LS_and_321_(CN_050108).zip">LS_and_321_(CN_050108).zip</a></br></br>
-Japanese Firmware update (P2J.FXJ.CON.85.01.03, TN.01.03.00, VS2.05.00.18, old BB.07.08.01, new BB.02.01.00, 1802DVD.1B22)</br>
+_Japanese Systems_ Firmware update (P2J.FXJ.CON.85.01.03, TN.01.03.00, VS2.05.00.18, old BB.07.08.01, new BB.02.01.00, 1802DVD.1B22)</br>
 <b>Japanese Firmware</b> - <a href="https://github.com/bosefirmware/cd-updates/raw/master/dvd-systems/lifestyle-updates/Japan_LS_and_321_(CN_850103).zip">Japan_LS_and_321_(CN_850103).zip</a>
