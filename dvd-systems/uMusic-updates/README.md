@@ -45,8 +45,7 @@ Download entire contents from _one_ of the linked folders below, for the full fi
 
 <b>_Japanese Systems_ Firmware update</b> - <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/uMusic-updates/Japan_uMusic%2B_HDD_DB_010201_CN_850103">Japan_uMusic+_HDD_DB_010201_CN_850103</a>
 - HDD DB 01.02.01
-- P2JCON.85.01.03
-- FXJCON.83.04.04
+- P2J.FXJ.CON.85.01.03
 - TN.01.03.00
 - VS2.05.00.18
 - old BB.07.08.01
