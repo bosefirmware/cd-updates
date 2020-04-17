@@ -36,6 +36,6 @@ update for _uMusic systems_ (321GSX, 321GSXIII, 321GSXL or 321GSXLIII)</br>
 update for _non-uMusic systems_ (321II, 321III, 321GSII or 321GSIII)</br>
 <b>Note</b>: 321II & 321GSII systems will have the Remote Control menu in the System menu removed. So please reference your manual to get correct remote codes. Or use the old firmware update.</br>
 · New Firmware update (KN.KP.HW.HP.CON05.01.08, TN.01.03.00, BB.01.04.00, 1802DVD.1B22)</br>
-¨¨¨¨<b>Firmware</b> - <a href="https://github.com/bosefirmware/cd-updates/raw/master/dvd-systems/lifestyle-updates/LS_and_321_(CN_050108)/LS_and_321_(CN_050108).zip.001">LS_and_321_(CN_050108).zip.001</a> & <a href="https://github.com/bosefirmware/cd-updates/raw/master/dvd-systems/lifestyle-updates/LS_and_321_(CN_050108)/LS_and_321_(CN_050108).zip.002">LS_and_321_(CN_050108).zip.002</a></br>
+¨¨¨¨<b>Firmware</b> - <a href="https://github.com/bosefirmware/cd-updates/raw/master/dvd-systems/lifestyle-updates/LS_and_321_(CN_050108).zip">LS_and_321_(CN_050108).zip</a></br>
 · Old Firmware update (KN.KP.CON03.03.04, TN.01.02.03, BB.01.04.00, 1802DVD.1B22)</br>
 ¨¨¨¨<b>Firmware</b> - <a href="https://github.com/bosefirmware/cd-updates/raw/master/dvd-systems/321-updates/321_2008_02_11%20(CN%20030304).zip">321_2008_02_11 (CN 030304).zip</a>
