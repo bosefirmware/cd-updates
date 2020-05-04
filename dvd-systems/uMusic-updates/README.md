@@ -43,7 +43,7 @@ Download entire contents from _one_ of the linked folders below, for the full fi
 - new BB.02.01.00
 - 1802DVD.1B22
 
-<b>_Japanese Systems_ Firmware update</b> - <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/uMusic-updates/Japan_uMusic%2B_HDD_DB_010201_CN_850103">Japan_uMusic+_HDD_DB_010201_CN_850103</a>
+<b>_Japanese Systems_ Firmware update</b> - <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/uMusic-updates/Japan_uMusic%2B_HDD-DB_010201_CN_850103">Japan_uMusic+_HDD_DB_010201_CN_850103</a>
 - HDD DB 01.02.01
 - P2J.FXJ.CON.85.01.03
 - TN.01.03.00
