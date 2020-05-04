@@ -15,7 +15,7 @@ Well recently the hard drive on my uMusic system died. So after getting my syste
 - Go to where you downloaded the zip file and extract the folder. It containes the files needed.
 
 ## Step 3 
-- The <a href="http://www.runtime.org/driveimage-xml.htm">DriveImage program</a> (included in the folder and <a href="https://github.com/bosefirmware/cd-updates/raw/master/dvd-systems/uMusic-updates/uMusic%20Blank%20Drive/driveimage%20xml%201.21.exe">here</a>) is free! If you have any questions about DriveImage please see their <a href="http://www.runtime.org/driveimage_faq.htm">FAQ</a>.
+- The <a href="http://www.runtime.org/driveimage-xml.htm">DriveImage program</a> (included in the folder and <a href="https://github.com/bosefirmware/cd-updates/raw/master/dvd-systems/uMusic-updates/uMusic_Blank_Drive/driveimage%20xml%201.21.exe">here</a>) is free! If you have any questions about DriveImage please see their <a href="http://www.runtime.org/driveimage_faq.htm">FAQ</a>.
 
 If you're having problems with the partition you will have to find a way to partition the drive.
   * Partition 1 was in Fat32 and was 30,112,006,114 bytes long.
