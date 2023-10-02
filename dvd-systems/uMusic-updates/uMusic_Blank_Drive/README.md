@@ -9,7 +9,7 @@ Well recently the hard drive on my uMusic system died. So after getting my syste
 * a few hours to download & create the file system
 
 ## Step 1 
-- <b>Software</b> - Download all files named <b>uMusic Blank Drive.zip.001</b> through <b>uMusic Blank Drive.zip.037</b>
+- <b>Software</b> - Download all files named <b>uMusic Blank Drive.zip.001</b> through <b>uMusic Blank Drive.zip.010</b>
 
 ## Step 2 
 - Go to where you downloaded the zip file and extract the folder. It containes the files needed.
