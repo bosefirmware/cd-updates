@@ -15,6 +15,7 @@ Lifestyle Series I - How to access information on your Media Center</br>
 
 Firmware update for Lifestyle 18, 28 & 35 (to 01.03.06)</br>
 <b>Firmware</b> - <a href="https://github.com/bosefirmware/cd-updates/blob/master/dvd-systems/lifestyle-updates/LS%20I%20(01-03-06).zip?raw=true">LS I 01-03-06.zip</a>
+<b>AdaptIQ</b> - <a href="https://github.com/bosefirmware/cd-updates/blob/master/dvd-systems/lifestyle-updates/AdaptIQ%20-%20LSI.zip?raw=true">Series I</a>
 
 # Lifestyle Series II, III & IV 
 - Lifestyle 18II, 18III, 28II, 28III, 35II, 35III, 35IV, 38, 38III, 38IV, 48, 48III & 48IV
