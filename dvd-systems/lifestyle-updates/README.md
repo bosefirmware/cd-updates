@@ -14,8 +14,8 @@ Lifestyle Series I - How to access information on your Media Center</br>
 <b>Instructions</b> - <a href="https://raw.githubusercontent.com/bosefirmware/cd-updates/master/dvd-systems/lifestyle-updates/firmware%20display%20procedure-Lifestyle%20I.txt">How to find Lifestyle I firmware version.txt</a>
 
 Firmware update for Lifestyle 18, 28 & 35 (to 01.03.06)</br>
-<b>Firmware</b> - <a href="https://github.com/bosefirmware/cd-updates/blob/master/dvd-systems/lifestyle-updates/LS%20I%20(01-03-06).zip?raw=true">LS I 01-03-06.zip</a></br>
-<b>AdaptIQ</b> - <a href="https://github.com/bosefirmware/cd-updates/blob/master/dvd-systems/lifestyle-updates/AdaptIQ%20-%20LSI.zip?raw=true">Series I</a>
+<b>Firmware</b> - <a href="https://github.com/bosefirmware/cd-updates/blob/master/dvd-systems/lifestyle-updates/LS%20I%20(01-03-06).zip">LS I 01-03-06.zip</a></br>
+<b>AdaptIQ</b> - <a href="https://github.com/bosefirmware/cd-updates/blob/master/dvd-systems/lifestyle-updates/AdaptIQ%20-%20LSI.zip">Series I</a>
 
 # Lifestyle Series II, III & IV 
 - Lifestyle 18II, 18III, 28II, 28III, 35II, 35III, 35IV, 38, 38III, 38IV, 48, 48III & 48IV
@@ -26,7 +26,7 @@ Information on what the remote control update (also known as Extensions) feature
 Lifestyle Series II, III and IV - How to access information on your Media Center</br>
 <b>Instructions</b> - <a href="https://raw.githubusercontent.com/bosefirmware/cd-updates/master/dvd-systems/lifestyle-updates/firmware%20display%20procedure-Lifestyle%20II-IV.txt">How to find Lifestyle series II, III and IV firmware version.txt</a>
 
-<b>AdaptIQ</b> - <a href="https://github.com/bosefirmware/cd-updates/blob/master/dvd-systems/lifestyle-updates/AdaptIQ%20-%20LSII-IV.zip?raw=true">Series II-IV</a>
+<b>AdaptIQ</b> - <a href="https://github.com/bosefirmware/cd-updates/blob/master/dvd-systems/lifestyle-updates/AdaptIQ%20-%20LSII-IV.zip">Series II-IV</a>
 
 update for _uMusic systems_ (38, 38III, 38IV, 48, 48III or 48IV)</br>
 <b>uMusic & Firmware update</b> - <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/uMusic-updates">please go here<a/> for the latest music and firmware update.
