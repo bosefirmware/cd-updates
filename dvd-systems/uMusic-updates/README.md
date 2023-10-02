@@ -13,6 +13,8 @@ WARNING :</br>
 DO NOT unplug the system during an update.</br>
 Doing so might ruin the System!</br>
 
+Go <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/uMusic-updates/uMusic_Blank_Drive">here</a> if you need to replace and restore your hard drive.
+
 ## Requirements:
 * Approx 2 gigs of free Hard drive space available
 * A DVD burner
