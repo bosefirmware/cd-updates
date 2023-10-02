@@ -26,7 +26,7 @@ Information on what the remote control update (also known as Extensions) feature
 Lifestyle Series II, III and IV - How to access information on your Media Center</br>
 <b>Instructions</b> - <a href="https://raw.githubusercontent.com/bosefirmware/cd-updates/master/dvd-systems/lifestyle-updates/firmware%20display%20procedure-Lifestyle%20II-IV.txt">How to find Lifestyle series II, III and IV firmware version.txt</a>
 
-<b>AdaptIQ</b> - <a href="https://github.com/bosefirmware/cd-updates/raw/master/master/dvd-systems/lifestyle-updates/AdaptIQ%20-%20LSII-IV.zip?raw=true">Series II-IV</a>
+<b>AdaptIQ</b> - <a href="https://github.com/bosefirmware/cd-updates/raw/master/dvd-systems/lifestyle-updates/AdaptIQ%20-%20LSII-IV.zip?raw=true">Series II-IV</a>
 
 update for _uMusic systems_ (38, 38III, 38IV, 48, 48III or 48IV)</br>
 <b>uMusic & Firmware update</b> - <a href="https://github.com/bosefirmware/cd-updates/tree/master/dvd-systems/uMusic-updates">please go here<a/> for the latest music and firmware update.
