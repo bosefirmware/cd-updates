@@ -1,5 +1,5 @@
 02.01.00<br/>
-Support for SoundLink adapter
+Support for <a href="https://support.bose.com/s/display-articles?productId=01t8c00000Oyd79AAB&articleId=ka08c000000haSOAAY">SoundLink adapter</a>
 
 Checking the software or firmware version:
 
