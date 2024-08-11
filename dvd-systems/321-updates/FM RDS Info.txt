@@ -1,0 +1,29 @@
+
+3-2-1 Series 1:
+U2033 RDS SIGNAL PROCESSOR 254562-001 EURO, UK, AUS
+
+3-2-1 Series 2:
+U2200-NV RDS SIGNAL PROCESSOR (EU/UK/AUS) 254562-001
+
+Lifestyle 28 series 1:
+U102 RDS, SIGNAL PROCESSOR 254562-001 EURO
+
+6.4 RDS Operation
+This feature is only implemented in the European version of the AV28 media center.
+The LC72722 Radio Data System (RDS) decoder IC, U102, is a single-chip system IC that implements
+the signal processing required by both the European RDS standard and US RDBS system.
+RDS/RDBS systems can send digital information over the airwaves along with the standard FM
+signal by adding a digitally modulated 57 kHz subcarrier to the normal FM composite signal. The
+LC72722 includes a bandpass filter, demodulator, synchronization, and error correction circuits.
+The input (pin 2) to the RDS IC comes from Q104, which buffers the FM composite signal at pin 23
+of the LA1837. The timebase for the decoder is a crystal oscillator formed by the 4.332 MHz
+crystal, Y101, the inverter internal to the IC across pins 12 and 13, and the two shunt capacitors,
+C138 and C139. Control of the RDS IC is achieved by using the same CCB bus interface used for
+the PLL IC.
+
+
+AM/FM Tuner differences:
+Capacitors C2026 and C2027 and the internal resistance of the LA1837 set the FM deemphasis.
+For a US unit the capacitor values are set to produce 75-uSec de-emphasis, and for Europe/Japan they
+are set to produce 50-uSec de-emphasis. MPX filters, T2003 and T2004,reject the residual 
+19 kHz pilot tone and 38 kHz sub-channel demodulation components.
