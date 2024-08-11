@@ -1,13 +1,13 @@
 Wave Music System series I
 
 01.04.01<br/>
-Support for Multi-Disc Changer (MDC)
+Support for <a href="https://support.bose.com/s/display-articles?productId=01t8c00000OydS1AAJ&articleId=ka08c000001fbtNAAQ">Multi-Disc Changer (MDC)</a>
 
 02.01.01<br/>
 Support for DAB & MDC
 
 03.01.01 & 03.02.01<br/>
-Support for DAB & SoundLink adapter (MDC support removed)
+Support for DAB & <a href="https://support.bose.com/s/display-articles?productId=01t8c00000OydS3AAJ&articleId=ka08c000000haYPAAY">SoundLink adapter</a> (MDC support removed)
 
 <br/>
 Checking the software or firmware version:
