@@ -1,0 +1,186 @@
+ if it dips below 64kbps
+the decoder does not have enough digital information to play the
+audio. This is common with other CD based MP3 players as well. To
+help prevent this particular symptom we recommend ripping at a
+constant rate of 128kbps, with a 44.1khz sampling rate. If you are
+unsure on how to make these settings in your recording software,
+please check the owners manual for your CD ripping software, or
+contact the manufacturer of this software.
+
+NOTE: Current versions of MusicMatch, a CD-ripping software program,
+have a feature called Volume-Leveling which can be enabled or
+disabled before you rip an audio CD. If this feature is enabled, the
+MP3s that are created will have a consistent volume level throughout
+all tracks so that the volume should not have to be adjusted up or
+down during playback. We have observed that MP3s created with the
+Volume-Leveling feature enabled will not be compatible with your
+system. Please make sure this feature is disabled when ripping CDs
+using MusicMatch.
+
+It is important that the names of your MP3 files do not contain more
+than one period (.) within the filename. For example, if you had a
+song called "HILL ST. BLUES.MP3", our system would be looking for
+the .MP3 extension on the end which identifies this as an MP3 files.
+In this case, however, there is an extra period in the filename. As
+a result, our system would see this as a ". BL" file which our
+system would not be able to interpret. Check the MP3 files which are
+not being recognized on our system to make sure they do not contain
+extra periods in the filename. If you do find any files that contain
+extra periods, it will be necessary to rename the file, using no
+more than one period. This way the Bose system will be able to
+properly interpret the file as an MP3.
+
+It is also possible that the MP3 file's ID3 tag setting may be
+hindering the system's ability to play certain MP3s. If your
+recording software allows you to select between using ID3 Version 1
+tags or ID3 Version 2 tags, please use Version 1. The use of ID3
+Version 2 tags allows you to store more information about the MP3
+file than ID3 Version 1 tags, which include, but are not limited to,
+graphics and song lyrics. In many cases, however, the use of ID3
+Version 2 tags will cause the Bose system not to recognize these
+tracks. For this reason, we recommend that your
+MP3 files contain only ID3 Version 1 tags. If the MP3 files that are
+not being recognized use ID3 Version 2 tags, it will be necessary to
+convert these to ID3 Version 1 tags. While it is often not easy to
+tell whether an MP3 contains ID3 Version 1 or Version 2 tags, there
+are programs available on the Internet which should provide this
+information. These same programs or other programs may also allow
+you to convert the ID3 Version 2 tags to Version 1. Bose does not
+recommend any particular software that will do this, but you could
+run a search on the Internet.
+Once you are certain that all of the MP3 files you will be burning
+to a CD are using ID3 version 1 tags, you can now trying burning
+these files to a CD again to try in your Bose system.
+
+Now let's discuss how to burn the MP3 files to a recordable CD.
+
+We do not recommend using software such as Direct CD which requires
+you to use Microsoft Windows Explorer to drag and drop files from
+your computer's hard drive to the CD. This method of CD burning will
+result an incompatible CD for your Bose system. We recommend using a
+software program that displays an actual user interface on the
+screen and allows you to burn tracks to the CD.
+
+Make sure that when burning to the CD that you finalize the session
+so that no additional tracks can be added to the disc. All tracks
+must be burned in one session only. If additional tracks are added
+after the first session, this can result in an incompatible MP3 CD.
+If you are unsure on how to finalize a CD so that it cannot be
+written to again, please check the owners manual for your CD burning
+software, or contact the manufacturer of this software.
+
+These suggestions should make it possible to create an MP3 CD that
+will play on your system. If you have further software questions,
+please let us know.
+
+
+HTTP/1.1 200 OK
+Date: Sun, 22 Oct 2006 07:31:14 GMT
+Server: Apache/1.3.27 (Unix)
+Page-Completion-Status: Normal
+content-disposition: filename=BoseMP3.txt
+Page-Completion-Status: Normal
+Content-length: 5272
+Keep-Alive: timeout=15, max=98
+Connection: Keep-Alive
+Content-Type: text/plain
+
+Please note that the 321 GS Series II can only play the following
+formats:
+
+CD, CD-R, CD-RW, MP3s ON CDs, DVD, DVD-R, DVD-RW, DVD+R, DVD+RW, VCD
+
+I assume that you are putting your MP3's on one of the type of discs
+above.
+
+There are some strict guidelines that must be followed however for
+the 321 GS Series II to be able to play an MP3 file. Please see
+below:
+
+If the Bose system is not recognizing some or all of the MP3 files
+on the disc, we need to check what might be causing this.
+
+We have identified the following criteria as being important in
+creating an MP3 CD that will be compatible with your Bose system.
+
+Our system will not play MP3s that are recorded at a rate lower than
+64kbps (kilobytes per second). Check the rate at which the MP3s are
+recorded. Verify whether the MP3 was recorded at a fixed or variable
+bitrate. If the tracks on the MP3 disc were recorded at a variable
+rate then our player may have issues reading that disc because of
+that variable rate. The track may play, but if it dips below 64kbps
+the decoder does not have enough digital information to play the
+audio. This is common with other CD based MP3 players as well. To
+help prevent this particular symptom we recommend ripping at a
+constant rate of 128kbps, with a 44.1khz sampling rate. If you are
+unsure on how to make these settings in your recording software,
+please check the owners manual for your CD ripping software, or
+contact the manufacturer of this software.
+
+NOTE: Current versions of MusicMatch, a CD-ripping software program,
+have a feature called Volume-Leveling which can be enabled or
+disabled before you rip an audio CD. If this feature is enabled, the
+MP3s that are created will have a consistent volume level throughout
+all tracks so that the volume should not have to be adjusted up or
+down during playback. We have observed that MP3s created with the
+Volume-Leveling feature enabled will not be compatible with your
+system. Please make sure this feature is disabled when ripping CDs
+using MusicMatch.
+
+It is important that the names of your MP3 files do not contain more
+than one period (.) within the filename. For example, if you had a
+song called "HILL ST. BLUES.MP3", our system would be looking for
+the .MP3 extension on the end which identifies this as an MP3 files.
+In this case, however, there is an extra period in the filename. As
+a result, our system would see this as a ". BL" file which our
+system would not be able to interpret. Check the MP3 files which are
+not being recognized on our system to make sure they do not contain
+extra periods in the filename. If you do find any files that contain
+extra periods, it will be necessary to rename the file, using no
+more than one period. This way the Bose system will be able to
+properly interpret the file as an MP3.
+
+It is also possible that the MP3 file's ID3 tag setting may be
+hindering the system's ability to play certain MP3s. If your
+recording software allows you to select between using ID3 Version 1
+tags or ID3 Version 2 tags, please use Version 1. The use of ID3
+Version 2 tags allows you to store more information about the MP3
+file than ID3 Version 1 tags, which include, but are not limited to,
+graphics and song lyrics. In many cases, however, the use of ID3
+Version 2 tags will cause the Bose system not to recognize these
+tracks. For this reason, we recommend that your
+MP3 files contain only ID3 Version 1 tags. If the MP3 files that are
+not being recognized use ID3 Version 2 tags, it will be necessary to
+convert these to ID3 Version 1 tags. While it is often not easy to
+tell whether an MP3 contains ID3 Version 1 or Version 2 tags, there
+are programs available on the Internet which should provide this
+information. These same programs or other programs may also allow
+you to convert the ID3 Version 2 tags to Version 1. Bose does not
+recommend any particular software that will do this, but you could
+run a search on the Internet.
+Once you are certain that all of the MP3 files you will be burning
+to a CD are using ID3 version 1 tags, you can now trying burning
+these files to a CD again to try in your Bose system.
+
+Now let's discuss how to burn the MP3 files to a recordable CD.
+
+We do not recommend using software such as Direct CD which requires
+you to use Microsoft Windows Explorer to drag and drop files from
+your computer's hard drive to the CD. This method of CD burning will
+result an incompatible CD for your Bose system. We recommend using a
+software program that displays an actual user interface on the
+screen and allows you to burn tracks to the CD.
+
+Make sure that when burning to the CD that you finalize the session
+so that no additional tracks can be added to the disc. All tracks
+must be burned in one session only. If additional tracks are added
+after the first session, this can result in an incompatible MP3 CD.
+If you are unsure on how to finalize a CD so that it cannot be
+written to again, please check the owners manual for your CD burning
+software, or contact the manufacturer of this software.
+
+These suggestions should make it possible to create an MP3 CD that
+will play on your system. If you have further software questions,
+please let us know.
+
+
