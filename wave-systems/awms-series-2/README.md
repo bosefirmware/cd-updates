@@ -7,6 +7,6 @@ Checking the software or firmware version:
 1. On the top of your system, press and hold the <b>Menu button</b> until –SETUP MENU– is appears on the system display
 2. Press and hold the <b>6 button</b> for about 10 seconds: The first 6 digits of info that appear after that time are the software version.
 
-<b>Boselinked Wave accessory</b>:
+<b>Boselinked Acoustic Wave accessory</b>:
 1. On the top of your system, press and hold the <b>Menu button</b> until –SETUP MENU– is appears on the system display
 2. Press and hold the <b>5 button</b> for about 10 seconds: The first 6 digits of info that appear after that time are the software version.
